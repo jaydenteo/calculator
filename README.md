@@ -1,4 +1,4 @@
-# URL Shortener
+# Calculator
 A responsive calculator react app.
 
 *Please cd into folders correctly. React apps are case sensitive and will not start if the terminal path does not match the actual path*
